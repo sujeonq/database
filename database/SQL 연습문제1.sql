@@ -167,5 +167,3 @@ on a.orderproduct = c.prodno
 where substring(`orderdate`,1,10) = '2022-07-03';
 # where orderdate like '%-07-03 %';
 
-su
-
